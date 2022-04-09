@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @arekwolan
 - 👀 I’m interested in manual and automatic testing and computers languages.
 - 🌱 I’m currently learning manual and automatic testing and computers languages :).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 arekwolan/arekwolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
